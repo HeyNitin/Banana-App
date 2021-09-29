@@ -9,4 +9,4 @@ Hint - minion giberishes.
 
 
 
-[Click](https:\\banana-app-nk-neog.netlify.app\) here to try it out
+[Click](https://banana-app-nk-neog.netlify.app) here to try it out
