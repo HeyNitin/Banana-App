@@ -1,6 +1,12 @@
 # Banana-App
 Banana translation app for NeoGcamp
 
-<br>
+It turns your text into banana text.
 
-It translates your text to minion giberishes. [Click](https:\\banana-app-nk-neog.netlify.app) here to try it out
+wondering what's that?
+
+Hint - minion giberishes.
+
+
+
+[Click](https:\\banana-app-nk-neog.netlify.app\) here to try it out
